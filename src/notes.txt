@@ -1,0 +1,1 @@
+Google - how to make post request using fetch in json server - https://reqbin.com/code/javascript/wc3qbk0b/javascript-fetch-json-example#:~:text=To%20post%20JSON%20data%20to,body%20of%20the%20HTTP%20message.
